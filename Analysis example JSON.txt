@@ -1,0 +1,9 @@
+  {
+    "Patent": ["US20200345181A1", "Portable Blender"],
+    
+    "Motivation": ["Conventional portable blenders lack the necessary battery capacity and motor power to function effectively.", "The lack of motor power prevents conventional portable blenders from consistently blending hard consumables like frozen fruit and ice.", "Increasing motor power is not useful unless battery capacity can be increased within the compact form factor."]
+    
+    "Novelty": ["A space-efficient battery assembly that arranges standard cylindrical battery cells in a semicircular configuration.", "The unique spatial arrangement enables a higher total battery capacity, which in turn allows for the inclusion of a more powerful motor capable of crushing ice and frozen foods.", "A complex, multi-level blade assembly features two pairs of blades at different heights and angles, with both serrated and sharpened edges, to create a more effective blending vortex."]
+    
+    "Key Invention Features": ["A cylindrical or conical base", "A cylindrical or conical blending chamber", "A blade assembly rotatebly fixed within the blending chamber", "A motor for rotating the blade assembly located within the base", "A battery assembly for powering the motor", "The battery assembly comprises a plurality of substantially cylindrical battery cells arranged in a semicircular configuration and located adjacent an outer wall of the base"]
+  }
