@@ -1,0 +1,27 @@
+{
+  "Patent": [
+    "US8529203B2",
+    "FAN ASSEMBLY"
+  ],
+  "Motivation": [
+    "Conventional fan assemblies utilize blades that pose a safety risk, especially to children and pets.",
+    "The use of fan blades can lead to choppy, inconsistent airflow, creating an uncomfortable user experience.",
+    "Traditional fan designs with visible blades are often difficult to clean due to the guard and blade geometry."
+  ],
+  "Novelty": [
+    "A bladeless fan assembly.",
+    "A mechanism for amplifying and directing an air current without the use of exposed blades by utilizing an impeller within a base and an annular nozzle.",
+    "The mouth of the nozzle is a slot-shaped outlet through which the amplified airflow is emitted, providing a smooth and uninterrupted air current."
+  ],
+  "Key Invention Features": [
+    "A base",
+    "A nozzle mounted on the base",
+    "An outer casing for the base",
+    "An impeller housing located within the outer casing, with an air inlet and an air outlet",
+    "An impeller located inside the impeller housing",
+    "A motor to drive the impeller",
+    "An annular flexible sealing member between the impeller housing and the outer casing",
+    "An interior passage within the nozzle to receive airflow from the impeller housing",
+    "A mouth on the nozzle to emit the airflow"
+  ]
+}

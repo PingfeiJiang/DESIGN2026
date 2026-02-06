@@ -1,0 +1,24 @@
+{
+  "Patent": [
+    "US 11,647,866 B2",
+    "GRINDER/DOSER DEVICE FOR COFFEE BEANS"
+  ],
+  "Motivation": [
+    "Prior coffee grinder-dosers require perfect execution and assembly of parts to ensure parallelism between the grinders, which is difficult to achieve.",
+    "The existing system for fastening and removing the upper grinder from the grinding chamber leads to a 'double possibility of error' during assembly and maintenance.",
+    "These errors can result in an irregular particle size of the ground coffee, leading to inconsistent taste, irregular doses, and powder residues in the cup."
+  ],
+  "Novelty": [
+    "A grinder-doser that achieves a regular particle size.",
+    "An apparatus that simplifies the removal and coupling of the upper grinder.",
+    "A design that uses a single parallel coupling point between the upper grinder and the head to guarantee parallelism."
+  ],
+  "Key Invention Features": [
+    "A body which internally houses an electric motor having a shaft which is integral in rotation with a lower grinder holder to which the lower grinder is joined.",
+    "A lower grinder holder, and a lower grinder being housed inside a head which has a horizontal annular seat in a lateral edge.",
+    "An upper grinder housed in the horizontal annular seat.",
+    "The upper grinder is formed by a toothed annular portion housed inside a hollow annular portion.",
+    "The hollow annular portion is surrounded by an annular portion which rests on the annular seat.",
+    "A flat surface of the annular portion of the upper grinder is rectified and collimated with a plane passing through the ends of the teeth of the toothed annular portion."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Patent": ["US11647866B2", "Grinder/doser device for coffee beans"],
+  
+  "Motivation": [
+    "Conventional grinder-dosers rely on multiple screw-fastened assemblies between the upper grinder holder, the head, and the grinder itself, which increases complexity.",
+    "The need for frequent cleaning of the grinding chamber introduces repeated disassembly and reassembly, creating opportunities for misalignment.",
+    "Misalignment of grinders during reassembly leads to irregular particle size distribution of ground coffee, resulting in inconsistent taste and dosing.",
+    "Prior art requires precise machining and assembly tolerances to maintain grinder parallelism, which increases manufacturing cost and still risks inconsistency."
+  ],
+  
+  "Novelty": [
+    "A redesigned grinder-doser head that provides a single parallel coupling point between the upper grinder and the head, reducing assembly errors.",
+    "The upper grinder is formed by a toothed annular portion housed within a hollow annular portion, itself surrounded by an annular portion that rests directly on a horizontal annular seat.",
+    "The flat surface of the upper grinder’s annular portion is rectified and collimated with the plane passing through the ends of the grinder teeth, ensuring precise alignment.",
+    "This structural arrangement simplifies removal and reinstallation of the upper grinder while maintaining consistent parallelism and grind uniformity."
+  ],
+  
+  "Key Invention Features": [
+    "A body housing an electric motor with a shaft integral in rotation with a lower grinder holder.",
+    "A lower grinder joined to the lower grinder holder.",
+    "A head containing the lower grinder holder and lower grinder, the head having a horizontal annular seat at its lateral edge.",
+    "An upper grinder formed by: (i) a toothed annular portion, (ii) a hollow annular portion housing the toothed portion, and (iii) an outer annular portion resting on the annular seat.",
+    "The flat surface of the outer annular portion of the upper grinder is rectified and collimated with a plane passing through the ends of the teeth of the toothed annular portion."
+  ]
+}

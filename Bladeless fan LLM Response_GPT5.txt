@@ -1,0 +1,29 @@
+{
+  "Patent": ["US8529203B2", "Fan assembly (bladeless fan)"],
+  
+  "Motivation": [
+    "Conventional fans with rotating blades generate uneven, 'choppy' airflow that feels uncomfortable to users.",
+    "Blade-driven fans are noisy, and the noise becomes intrusive in domestic environments.",
+    "The cooling effect of traditional fans diminishes significantly with distance, requiring close placement to the user.",
+    "Prior bladeless or slot-based fans suffer from inefficiencies due to air leakage and pressure losses, reducing airflow output.",
+    "Rigid sealing structures in prior art transmit motor vibrations and noise, amplifying unwanted sound."
+  ],
+  
+  "Novelty": [
+    "Integration of a flexible sealing member between the impeller housing and the outer casing to inhibit air leakage and maintain pressure efficiency.",
+    "The flexible sealing member also absorbs vibration and noise, unlike rigid seals in prior art.",
+    "A nozzle with an annular interior passage and a mouth that directs airflow over a Coanda surface, entraining surrounding air to amplify total airflow.",
+    "Use of a diffuser downstream of the impeller to smooth airflow and reduce turbulence and noise.",
+    "Compact cylindrical base design with efficient airflow path and reduced footprint compared to conventional fans."
+  ],
+  
+  "Key Invention Features": [
+    "A base comprising an outer casing with multiple air inlets.",
+    "An impeller housing mounted on angularly spaced supports within the outer casing.",
+    "An impeller located within the impeller housing, driven by a motor also located within the housing.",
+    "A diffuser located downstream of the impeller within the impeller housing.",
+    "A flexible sealing member positioned between the impeller housing and the outer casing to inhibit recirculation of air.",
+    "A nozzle comprising an interior passage for receiving airflow from the impeller housing.",
+    "A mouth in the nozzle through which airflow is emitted, the nozzle defining an opening that entrains external air into the airflow."
+  ]
+}

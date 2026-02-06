@@ -1,0 +1,30 @@
+{
+  "Patent": [
+    "US 10,631,685 B2",
+    "TOASTER"
+  ],
+  "Motivation": [
+    "Bread crumbs easily fall to the bottom of the toasting chamber and accumulate, posing a fire risk in high-temperature conditions.",
+    "Cleaning accumulated bread crumbs is troublesome, as it requires turning the toaster upside down and shaking it.",
+    "Conventional toasters cannot be fully cleaned, and the interior can attract cockroaches or mice, which is unsanitary and unhealthy."
+  ],
+  "Novelty": [
+    "The invention provides a toaster that can automatically discharge sliced bread after toasting.",
+    "The toaster's outlet is fitted with a door that opens automatically to release the toasted bread.",
+    "The toaster uses a magnetic suction mechanism controlled by a PCB board to open the door automatically when toasting is complete.",
+    "The control system is simple, energy-saving, and environmentally friendly, as it doesn't require complex power control."
+  ],
+  "Key Invention Features": [
+    "A housing containing a toasting chamber.",
+    "An inlet at the upper end of the toasting chamber for feeding sliced bread.",
+    "An outlet at the lower end of the toasting chamber for discharging sliced bread.",
+    "A door that opens and closes the outlet.",
+    "A door opening structure including a door locking mechanism, a lift door opening mechanism, a magnetic suction mechanism, a power switch mechanism, and a PCB control board.",
+    "The lift door opening mechanism is slidably mounted on the outside of the toasting chamber.",
+    "The magnetic suction mechanism and the power switch mechanism are located under the lift door opening mechanism.",
+    "The PCB control board is electrically connected to the magnetic suction mechanism.",
+    "When the lift door opening mechanism is pressed down, the door locking mechanism is disengaged from a door locking shaft, and the power switch mechanism is activated to energize the magnetic suction mechanism.",
+    "The magnetic suction mechanism engages with the lift door opening mechanism until toasting is finished.",
+    "The PCB control board controls the magnetic suction mechanism to be de-energized when the lift door opening mechanism automatically rises to pull a door opening shaft to open the door."
+  ]
+}
